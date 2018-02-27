@@ -8,6 +8,6 @@ def my_collect(array)
     end
     arr
   else
-    arrays
+    array
   end
 end
